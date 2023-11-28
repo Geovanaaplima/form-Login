@@ -9,17 +9,17 @@ h1{
     font-size:40px;
     font-weight:bold;
     letter-spacing:20px;
-    color:#f5506e;
+    color:rgb(228, 42, 228);
 }
  #email{
     width: 100%;
-    border: 1px solid black;
+    border: 1px solid white;
     padding: 4px;
     border-radius: 0.5rem;  
 }
 #senha{
     width: 100%;
-    border: 1px solid black;
+    border: 1px solid white;
     padding: 4px;
     border-radius: 0.5rem;
 }
