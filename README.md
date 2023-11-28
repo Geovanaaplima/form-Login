@@ -1,4 +1,4 @@
-<h1 align=center>Formulário de Login</h1>
+<h1 align =center>Formulário de Login</h1>
 
 ## 📋 Sobre o Form
 >O projeto de form-contato foi realizado composto pela seguinte matéria:
