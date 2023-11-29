@@ -6,16 +6,16 @@
 
 
 ## Imagem do software:
-![img.png] 
+![]
 
 # 📄 Descrição do projeto
-form-Login criado durante as aulas de Fundamentos de Desenvolvimento Web, esse trabalho é continuidade do Form-CadEcommerce onde criamos um formulário de cadastro, este projeto a gente criou uma página de login para o acesso ser mais fácil e rápido.
+>form-Login criado durante as aulas de Fundamentos de Desenvolvimento Web, esse trabalho é continuidade do Form-CadEcommerce onde criamos um formulário de cadastro, este projeto a gente criou uma página de login para o acesso ser mais fácil e rápido.
 # 🛠️ Tecnologias
-* HTML
-* CSS 
-* bootstrap 5
+>* HTML
+>* CSS 
+>* bootstrap 5
 # 🔧 Ferramentas
-* VSCODE 
-* GitHub
+>* VSCODE 
+>* GitHub
 # Autores 
-* Geovana Ap. Lima
+>* Geovana Ap. Lima
