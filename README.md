@@ -27,3 +27,4 @@ form-Login criado durante as aulas de Fundamentos de Desenvolvimento Web, esse t
 | ``<*div*>`` - Agrupa os conteúdos | *placeholder* - Legenda os campos de dados
 # Autores 
 * Geovana Ap. Lima
+* Chrystian de Almeida
