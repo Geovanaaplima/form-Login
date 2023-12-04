@@ -20,12 +20,12 @@ form-Login criado durante as aulas de Fundamentos de Desenvolvimento Web, esse t
 * `` VSCODE`` 
 # 🔧 Ferramentas
 * Alementos e Atributos 
-* head
-* body
-* div
-* label
-* input 
-* br 
-* button
+* ``head``
+* ``body``
+* ``div``
+* ``label``
+* ``input`` 
+* ``br`` 
+* ``button``
 # Autores 
 * Geovana Ap. Lima
