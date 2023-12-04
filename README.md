@@ -19,13 +19,11 @@ form-Login criado durante as aulas de Fundamentos de Desenvolvimento Web, esse t
 * `` GitBash``
 * `` VSCODE`` 
 # 🔧 Ferramentas
-* Alementos e Atributos 
-* ``head``
-* ``body``
-* ``div``
-* ``label``
-* ``input`` 
-* ``br`` 
-* ``button``
+| Elementos | Atributos |
+| --- | --- |
+| ``<*form*>`` - formulário | *input* - Dados requisitados
+| ``<*label*>`` - Rótulo | *type* - Tipos de dados(password, email e submit)
+| ``<*button*>`` - Botão | *id* - Indentificador
+| ``<*div*>`` - Agrupa os conteúdos | *placeholder* - Legenda os campos de dados
 # Autores 
 * Geovana Ap. Lima
